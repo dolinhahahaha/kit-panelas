@@ -1,1 +1,1 @@
-# kit-panelas
+# kit-panel
